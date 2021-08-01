@@ -1,2 +1,2 @@
 # SkinProjection
-## Link: https://rg2ngit-skinprojection.netlify.app/
+## Sample: https://rg2ngit-skinprojection.netlify.app/

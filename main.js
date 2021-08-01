@@ -142,7 +142,6 @@ const skinParts = ["head", "body", "rightArm", "leftArm", "rightLeg", "leftLeg"]
 				}
 			}
 			reloadSkin();
-			reloadCape();
 		}
 
 		initializeControls();

@@ -32,7 +32,7 @@ const skinParts = ["head", "body", "rightArm", "leftArm", "rightLeg", "leftLeg"]
 				skinViewer.loadSkin('https://mc-heads.net/skin/' + urlParams["name"]);
 				input.setCustomValidity("");
 			} else {
-				skinViewer.loadSkin('https://skin.medusa.codes/img/skin.png')
+				skinViewer.loadSkin('https://rg2ngit-skinprojection.netlify.app/EmpireJas.png')
 					.then(() => input.setCustomValidity(""))
 					.catch(e => {
 						input.setCustomValidity("Image can't be loaded.");
